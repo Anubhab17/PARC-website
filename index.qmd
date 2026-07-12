@@ -2,6 +2,6 @@
 title: "PARC-website"
 ---
 
-Welcome to **PARC**.
+Welcome to **PARC**!
 
 
