@@ -1,7 +1,66 @@
 ---
-title: "PARC-website"
+title: "PARC"
+subtitle: "Probabilistic AI Research Community"
 ---
 
 Welcome to **PARC**!
+
+PARC is a community for masters students and early-career researchers interested in artificial intelligence, machine learning, statistics, and data science. We aim to create a space where motivated learners can explore research ideas, develop scientific skills, and collaborate on open projects.
+
+[Join the community] [Explore activities]
+
+## Why PARC?
+
+Modern AI and data science are rapidly evolving fields. While many students develop strong programming and technical skills, the transition from learning algorithms to conducting research can be challenging.
+
+Research requires more than implementing models. It involves:
+
+- asking meaningful questions,
+- understanding existing scientific work,
+- designing reliable experiments,
+- communicating ideas clearly,
+- and collaborating with others.
+
+**PARC** aims to bridge this gap by providing an open environment where students can take their first steps into research.
+
+## What we do
+
+### 📚 Research Reading Groups
+
+Understanding research begins with learning how to read it.
+
+We discuss selected papers on a monthly basis in areas including:
+
+- probabilistic machine learning,
+- forecasting and time series,
+- statistical learning,
+- AI for scientific applications.
+
+Through discussions and presentations, participants develop the ability to critically analyse research ideas.
+
+### 🧠 Research Skills Workshops
+
+Research involves a set of skills that are often learned informally.
+
+PARC organises monthly sessions on:
+
+- reading and understanding scientific papers,
+- formulating research questions,
+- designing experiments,
+- reproducible computational workflows,
+- scientific communication.
+
+### 🌱 Open Research Projects
+
+Learning happens through practice.
+
+PARC encourages collaborative projects where students can:
+
+- reproduce existing research,
+- explore new ideas,
+- build open-source implementations,
+- and learn research methodology.
+
+
 
 

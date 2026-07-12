@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "PARC-website",
+    "title": "PARC",
     "section": "",
-    "text": "Welcome to PARC!"
+    "text": "Welcome to PARC!\nPARC is a community for masters students and early-career researchers interested in artificial intelligence, machine learning, statistics, and data science. We aim to create a space where motivated learners can explore research ideas, develop scientific skills, and collaborate on open projects.\n[Join the community] [Explore activities]"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#why-parc",
+    "href": "index.html#why-parc",
+    "title": "PARC",
+    "section": "Why PARC?",
+    "text": "Why PARC?\nModern AI and data science are rapidly evolving fields. While many students develop strong programming and technical skills, the transition from learning algorithms to conducting research can be challenging.\nResearch requires more than implementing models. It involves:\n\nasking meaningful questions,\nunderstanding existing scientific work,\ndesigning reliable experiments,\ncommunicating ideas clearly,\nand collaborating with others.\n\nPARC aims to bridge this gap by providing an open environment where students can take their first steps into research."
+  },
+  {
+    "objectID": "index.html#what-we-do",
+    "href": "index.html#what-we-do",
+    "title": "PARC",
+    "section": "What we do",
+    "text": "What we do\n\n📚 Research Reading Groups\nUnderstanding research begins with learning how to read it.\nWe discuss selected papers on a monthly basis in areas including:\n\nprobabilistic machine learning,\nforecasting and time series,\nstatistical learning,\nAI for scientific applications.\n\nThrough discussions and presentations, participants develop the ability to critically analyse research ideas.\n\n\n🧠 Research Skills Workshops\nResearch involves a set of skills that are often learned informally.\nPARC organises monthly sessions on:\n\nreading and understanding scientific papers,\nformulating research questions,\ndesigning experiments,\nreproducible computational workflows,\nscientific communication.\n\n\n\n🌱 Open Research Projects\nLearning happens through practice.\nPARC encourages collaborative projects where students can:\n\nreproduce existing research,\nexplore new ideas,\nbuild open-source implementations,\nand learn research methodology."
   }
 ]
