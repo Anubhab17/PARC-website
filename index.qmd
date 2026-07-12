@@ -2,6 +2,6 @@
 title: "PARC-website"
 ---
 
-This is a Quarto website.
+Welcome to **PARC**.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
