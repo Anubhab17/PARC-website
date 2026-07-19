@@ -1,0 +1,30 @@
+{
+    "id": "B9DC43F4",
+    "path": "~/PARC-website/about.qmd",
+    "project_path": "about.qmd",
+    "type": "quarto_markdown",
+    "hash": "268737654",
+    "contents": "",
+    "dirty": false,
+    "created": 1784282654621.0,
+    "source_on_save": true,
+    "relative_order": 5,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "33,0",
+        "scrollLine": "20"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1784480445,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1784480445809,
+    "read_only": false,
+    "read_only_alternatives": []
+}

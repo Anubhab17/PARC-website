@@ -1,5 +1,58 @@
 ---
-title: "people"
-format: html
+title: "People"
 ---
 
+PARC is a community-driven initiative led by researchers who are passionate about making research more accessible through collaboration, discussion, and open science.
+
+---
+
+
+## Core Team
+
+### Anubhab Biswas
+
+**PhD Researcher**, **Founder**
+
+[Personal Website](https://anubhab17.github.io/anubhabbiswas.github.io/) |
+[Google Scholar](https://scholar.google.ch/citations?hl=en&user=P3CM9DMAAAAJ) | 
+[GitHub](https://github.com/Anubhabsupsi)  
+
+
+
+- ISAAC, Scuola universitaria professionale della Svizzera italiana (SUPSI), Mendrisio, Switzerland 🇨🇭
+- IDSIA, Università della Svizzera italiana (USI), Lugano, Switzerland 🇨🇭
+
+
+**Research Interests**
+
+- Probabilistic Machine Learning
+- Forecasting & Time Series Analysis
+- Bayesian Methods
+- Statistical Learning
+- AI for Environmental Applications
+
+
+
+### Soumya Ghatak
+
+**PhD Researcher**
+
+[Personal Website](https://soumyaghatak.github.io/) |
+[Github](https://github.com/soumyaghatak)
+
+ECE, Indian Institute of Science (IISc), Bangalore, India 🇮🇳
+
+**Research Interests**
+
+- Sequential decision making 
+- Reinforcement Learning 
+- Optimization 
+- Applied Probability
+
+---
+
+## Join the Community
+
+PARC is an evolving research community. As our activities grow, we hope to welcome researchers, students, and volunteers who share an interest in research, collaboration, and open science.
+
+If you are interested in contributing to PARC, please visit the **Join** page.

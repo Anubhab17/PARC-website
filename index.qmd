@@ -5,62 +5,96 @@ subtitle: "Probabilistic AI Research Community"
 
 Welcome to **PARC**!
 
-PARC is a community for masters students and early-career researchers interested in artificial intelligence, machine learning, statistics, and data science. We aim to create a space where motivated learners can explore research ideas, develop scientific skills, and collaborate on open projects.
+PARC is a student-driven research community that connects motivated learners with researchers to explore ideas in artificial intelligence, machine learning, statistics, optimization, forecasting, and data science.
 
-[Join the community] [Explore activities]
+> <span style="color: darkgreen;">
+*Research grows through conversation. The name* ***PARC*** *is inspired by the idea of a **PARK**—a place where people meet, exchange ideas, and learn from one another. Likewise, PARC aims to cultivate a welcoming community for scientific exploration.*
+</span>
+
+[Join the Community](join.qmd){.btn .btn-primary}
+[Our Activities](activities.qmd){.btn .btn-secondary}
+
+---
 
 ## Why PARC?
 
-Modern AI and data science are rapidly evolving fields. While many students develop strong programming and technical skills, the transition from learning algorithms to conducting research can be challenging.
+Moving from coursework to research is often challenging. Research requires more than implementing algorithms—it involves asking meaningful questions, understanding scientific literature, designing reliable experiments, and collaborating with others.
 
-Research requires more than implementing models. It involves:
+PARC provides an open environment where students can develop these skills through discussion, collaboration, and hands-on research activities.
 
-- asking meaningful questions,
-- understanding existing scientific work,
-- designing reliable experiments,
-- communicating ideas clearly,
-- and collaborating with others.
+---
 
-**PARC** aims to bridge this gap by providing an open environment where students can take their first steps into research.
+## What We Do
 
-## What we do
+::: {.columns}
 
-### 📚 Research Reading Groups
+::: {.column width="33%"}
 
-Understanding research begins with learning how to read it.
+### 📚 Reading Groups
 
-We discuss selected papers on a monthly basis in areas including:
+Explore recent research papers in artificial intelligence, machine learning, probabilistic modelling, reinforcement learning, forecasting, and data science through interactive discussions.
 
-- probabilistic machine learning,
-- forecasting and time series,
-- statistical learning,
-- AI for scientific applications.
+:::
 
-Through discussions and presentations, participants develop the ability to critically analyse research ideas.
+::: {.column width="33%"}
 
-### 🧠 Research Skills Workshops
+### 🧠 Research Skills
 
-Research involves a set of skills that are often learned informally.
+Learn practical research skills including literature review, experiment design, reproducible computing, and scientific communication.
 
-PARC organises monthly sessions on:
+:::
 
-- reading and understanding scientific papers,
-- formulating research questions,
-- designing experiments,
-- reproducible computational workflows,
-- scientific communication.
+::: {.column width="33%"}
 
-### 🌱 Open Research Projects
+### 🌱 Open Projects
 
-Learning happens through practice.
+Collaborate on research-oriented projects, reproduce published work, and contribute to open-source scientific software.
 
-PARC encourages collaborative projects where students can:
+:::
 
-- reproduce existing research,
-- explore new ideas,
-- build open-source implementations,
-- and learn research methodology.
+:::
 
+---
 
+## Research Areas
 
+- Artificial Intelligence
+- Machine Learning
+- Probabilistic Machine Learning
+- Reinforcement Learning & Sequential Decision Making
+- Forecasting & Time Series
+- Optimization & Applied Probability
+- Data Science
 
+---
+
+## Our Philosophy
+
+> **Curiosity. Rigor. Collaboration.**
+
+We believe research is driven by curiosity, strengthened through rigorous scientific practice, and accelerated by an open and collaborative community.
+
+---
+
+## Founded by
+
+PARC was founded by **Anubhab Biswas**, a PhD researcher at (SUPSI), Mendrisio, Switzerland 🇨🇭 and affiliated with the Università della Svizzera italiana (USI), Lugano, Switzerland 🇨🇭.
+
+The initiative was created with the goal of making research in probabilistic AI, forecasting, and data science more accessible to motivated students and early-career researchers.
+
+As PARC grows, we aim to bring together researchers and learners who share a passion for scientific discovery, open research, collaboration, and knowledge exchange.
+
+→ Learn more about the team on the **People** page.
+
+---
+
+## Become part of the community
+
+Research grows through curiosity, collaboration, and shared learning.
+
+Whether you are a student beginning your research journey or a researcher interested in contributing, PARC welcomes individuals who are passionate about exploring ideas and building meaningful scientific connections.
+
+**Interested in joining PARC?**  
+Visit the **Join** page to learn more.
+
+---

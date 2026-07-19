@@ -4,27 +4,216 @@
     "href": "index.html",
     "title": "PARC",
     "section": "",
-    "text": "Welcome to PARC!\nPARC is a community for masters students and early-career researchers interested in artificial intelligence, machine learning, statistics, and data science. We aim to create a space where motivated learners can explore research ideas, develop scientific skills, and collaborate on open projects.\n[Join the community] [Explore activities]"
+    "text": "Welcome to PARC!\nPARC is a student-driven research community that connects motivated learners with researchers to explore ideas in artificial intelligence, machine learning, statistics, optimization, forecasting, and data science.\nJoin the Community Our Activities"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About PARC",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "The rapid growth of artificial intelligence and data science has created exciting opportunities for students worldwide. However, moving from learning concepts and implementing projects to conducting meaningful research can often be challenging.\nResearch requires more than technical knowledge. It involves developing the ability to:\nPARC was created to provide a space where motivated students can gradually develop these skills through exposure to research, discussion, and collaboration."
   },
   {
     "objectID": "index.html#why-parc",
     "href": "index.html#why-parc",
     "title": "PARC",
     "section": "Why PARC?",
-    "text": "Why PARC?\nModern AI and data science are rapidly evolving fields. While many students develop strong programming and technical skills, the transition from learning algorithms to conducting research can be challenging.\nResearch requires more than implementing models. It involves:\n\nasking meaningful questions,\nunderstanding existing scientific work,\ndesigning reliable experiments,\ncommunicating ideas clearly,\nand collaborating with others.\n\nPARC aims to bridge this gap by providing an open environment where students can take their first steps into research."
+    "text": "Why PARC?\nMoving from coursework to research is often challenging. Research requires more than implementing algorithms—it involves asking meaningful questions, understanding scientific literature, designing reliable experiments, and collaborating with others.\nPARC provides an open environment where students can develop these skills through discussion, collaboration, and hands-on research activities."
   },
   {
     "objectID": "index.html#what-we-do",
     "href": "index.html#what-we-do",
     "title": "PARC",
-    "section": "What we do",
-    "text": "What we do\n\n📚 Research Reading Groups\nUnderstanding research begins with learning how to read it.\nWe discuss selected papers on a monthly basis in areas including:\n\nprobabilistic machine learning,\nforecasting and time series,\nstatistical learning,\nAI for scientific applications.\n\nThrough discussions and presentations, participants develop the ability to critically analyse research ideas.\n\n\n🧠 Research Skills Workshops\nResearch involves a set of skills that are often learned informally.\nPARC organises monthly sessions on:\n\nreading and understanding scientific papers,\nformulating research questions,\ndesigning experiments,\nreproducible computational workflows,\nscientific communication.\n\n\n\n🌱 Open Research Projects\nLearning happens through practice.\nPARC encourages collaborative projects where students can:\n\nreproduce existing research,\nexplore new ideas,\nbuild open-source implementations,\nand learn research methodology."
+    "section": "What We Do",
+    "text": "What We Do\n\n\n\n📚 Reading Groups\nExplore recent research papers in artificial intelligence, machine learning, probabilistic modelling, reinforcement learning, forecasting, and data science through interactive discussions.\n\n\n\n🧠 Research Skills\nLearn practical research skills including literature review, experiment design, reproducible computing, and scientific communication.\n\n\n\n🌱 Open Projects\nCollaborate on research-oriented projects, reproduce published work, and contribute to open-source scientific software."
+  },
+  {
+    "objectID": "index.html#research-themes",
+    "href": "index.html#research-themes",
+    "title": "PARC",
+    "section": "Research Themes",
+    "text": "Research Themes\n\nArtificial Intelligence\nMachine Learning\nProbabilistic Machine Learning\nReinforcement Learning & Sequential Decision Making\nForecasting & Time Series\nOptimization & Applied Probability\nData Science"
+  },
+  {
+    "objectID": "index.html#our-philosophy",
+    "href": "index.html#our-philosophy",
+    "title": "PARC",
+    "section": "Our Philosophy",
+    "text": "Our Philosophy\n\nCuriosity. Rigor. Collaboration.\n\nWe believe research is driven by curiosity, strengthened through rigorous scientific practice, and accelerated by an open and collaborative community."
+  },
+  {
+    "objectID": "index.html#join-parc",
+    "href": "index.html#join-parc",
+    "title": "PARC",
+    "section": "Join PARC",
+    "text": "Join PARC\nWhether you are beginning your research journey or looking to contribute to a growing community, we welcome students and early-career researchers who are passionate about learning and discovery.\nInterested? Visit the Join page to learn more."
+  },
+  {
+    "objectID": "index.html#founded-by",
+    "href": "index.html#founded-by",
+    "title": "PARC",
+    "section": "Founded by",
+    "text": "Founded by\nPARC was founded by Anubhab Biswas, a PhD researcher at (SUPSI), Mendrisio, Switzerland 🇨🇭 and affiliated with the Università della Svizzera italiana (USI), Lugano, Switzerland 🇨🇭.\nThe initiative was created with the goal of making research in probabilistic AI, forecasting, and data science more accessible to motivated students and early-career researchers.\nAs PARC grows, we aim to bring together researchers and learners who share a passion for scientific discovery, open research, collaboration, and knowledge exchange.\n→ Learn more about the team on the People page."
+  },
+  {
+    "objectID": "index.html#become-part-of-the-community",
+    "href": "index.html#become-part-of-the-community",
+    "title": "PARC",
+    "section": "Become part of the community",
+    "text": "Become part of the community\nResearch grows through curiosity, collaboration, and shared learning.\nWhether you are a student beginning your research journey or a researcher interested in contributing, PARC welcomes individuals who are passionate about exploring ideas and building meaningful scientific connections.\nInterested in joining PARC?\nVisit the Join page to learn more."
+  },
+  {
+    "objectID": "about.html#our-vision",
+    "href": "about.html#our-vision",
+    "title": "About PARC",
+    "section": "Our Vision",
+    "text": "Our Vision\nWe envision a community where students from diverse backgrounds can access research experiences, learn from one another, and develop the confidence to pursue scientific careers.\nWe believe that curiosity and dedication are fundamental drivers of research. Access to guidance, discussions, and a research environment can help students take their first steps towards independent exploration."
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About PARC",
+    "section": "Our Mission",
+    "text": "Our Mission\nPARC focuses on three key objectives:\n\nResearch Exposure\nIntroduce students to current developments in artificial intelligence, machine learning, reinforcement learning, optimization, probabilistic modelling, forecasting, statistics, and data science through reading groups, workshops, and collaborative activities.\n\n\nResearch Skills\nHelp students develop the practical skills needed for research:\n\nreading scientific literature,\nformulating research questions,\ndesigning experiments,\nreproducible computational practices,\nscientific communication.\n\n\n\nResearch Community\nCreate connections between students and researchers, encouraging open discussions, knowledge sharing, and collaboration."
+  },
+  {
+    "objectID": "about.html#our-principles",
+    "href": "about.html#our-principles",
+    "title": "About PARC",
+    "section": "Our Principles",
+    "text": "Our Principles\n\nCuriosity\nWe encourage asking questions, exploring new ideas, and learning beyond traditional coursework.\n\n\nRigor\nWe value careful reasoning, reliable experimentation, and responsible scientific practices.\n\n\nOpenness\nWe believe research progresses through sharing knowledge, tools, and ideas.\n\n\nCollaboration\nWe see research as a collective process where diverse perspectives lead to better discoveries."
+  },
+  {
+    "objectID": "about.html#looking-ahead",
+    "href": "about.html#looking-ahead",
+    "title": "About PARC",
+    "section": "Looking Ahead",
+    "text": "Looking Ahead\nPARC begins as a small, research-oriented community built around discussion and collaboration.\nOver time, we hope to bring together students and researchers from different institutions and create more opportunities for learning, exploration, and open scientific contributions."
+  },
+  {
+    "objectID": "about.html#how-we-approach-research",
+    "href": "about.html#how-we-approach-research",
+    "title": "About PARC",
+    "section": "How We Approach Research",
+    "text": "How We Approach Research\nPARC believes that research is developed through curiosity, careful scientific thinking, and collaboration.\nWe encourage students to go beyond simply applying existing methods and develop the ability to ask questions, evaluate ideas critically, and explore new directions.\nWe promote an open research culture where knowledge, tools, and experiences are shared to help everyone learn and grow."
+  },
+  {
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Activities",
+    "section": "",
+    "text": "PARC organizes research-oriented activities designed to help students explore artificial intelligence, machine learning, forecasting, and data science beyond traditional coursework.\nOur activities focus on developing research skills, encouraging scientific discussions, and creating opportunities for collaboration."
+  },
+  {
+    "objectID": "activities.html#research-reading-groups",
+    "href": "activities.html#research-reading-groups",
+    "title": "Activities",
+    "section": "Research Reading Groups",
+    "text": "Research Reading Groups\n\nLearning through scientific literature\nReading research papers is one of the most important skills for becoming a researcher.\nPARC reading groups provide a space for students to explore recent research papers, discuss ideas, and learn how scientific contributions are developed.\nTopics may include:\n\nprobabilistic machine learning,\nforecasting and time series,\nstatistical learning,\nartificial intelligence,\ndata science applications.\n\nParticipants learn how to:\n\nunderstand research papers,\nanalyse methodologies,\ndiscuss limitations,\nidentify possible research directions."
+  },
+  {
+    "objectID": "activities.html#research-skills-workshops",
+    "href": "activities.html#research-skills-workshops",
+    "title": "Activities",
+    "section": "Research Skills Workshops",
+    "text": "Research Skills Workshops\n\nBuilding the foundations for research\nResearch involves skills that are often learned through experience.\nPARC workshops focus on practical aspects of research, including:\n\nfinding and reading scientific literature,\nformulating research questions,\ndesigning computational experiments,\nreproducible research practices,\nscientific communication.\n\nWorkshops may be delivered by researchers and collaborators from different academic backgrounds."
+  },
+  {
+    "objectID": "activities.html#collaborative-research-projects",
+    "href": "activities.html#collaborative-research-projects",
+    "title": "Activities",
+    "section": "Collaborative Research Projects",
+    "text": "Collaborative Research Projects\n\nLearning by doing\nResearch skills develop through practice.\nPARC encourages small collaborative projects where students can explore ideas, reproduce existing work, and develop their understanding of research methodology.\nProjects may involve:\n\nimplementing research methods,\nanalysing datasets,\nexploring new approaches,\ndeveloping open-source tools.\n\nThe focus is on learning the research process rather than only achieving final results."
+  },
+  {
+    "objectID": "activities.html#research-talks-and-discussions",
+    "href": "activities.html#research-talks-and-discussions",
+    "title": "Activities",
+    "section": "Research Talks and Discussions",
+    "text": "Research Talks and Discussions\n\nConnecting with researchers\nPARC hosts discussions with researchers and early-career scientists who share their experiences, research journeys, and perspectives on different areas of AI and data science.\nThese sessions provide students with insights into:\n\nacademic research,\ngraduate studies,\nresearch careers,\ncurrent developments in the field."
+  },
+  {
+    "objectID": "activities.html#upcoming-activities",
+    "href": "activities.html#upcoming-activities",
+    "title": "Activities",
+    "section": "Upcoming Activities",
+    "text": "Upcoming Activities\n\nLaunch Workshop: From AI Projects to Research\nUniversity of Hyderabad\nNovember 2026\nAn introductory workshop on transitioning from coursework-based machine learning projects towards research-oriented thinking.\nTopics include:\n\nUnderstanding the difference between projects and research\nReading scientific papers\nDeveloping research questions\nBuilding reproducible experiments\n\nMore details will be announced soon."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "PARC is a community-driven initiative led by researchers who are passionate about making research more accessible through collaboration, discussion, and open science."
+  },
+  {
+    "objectID": "people.html#core-team",
+    "href": "people.html#core-team",
+    "title": "People",
+    "section": "Core Team",
+    "text": "Core Team\n\nAnubhab Biswas\nPhD Researcher, Founder\nPersonal Website | Google Scholar | GitHub\n\nISAAC, Scuola universitaria professionale della Svizzera italiana (SUPSI), Mendrisio, Switzerland 🇨🇭\nIDSIA, Università della Svizzera italiana (USI), Lugano, Switzerland 🇨🇭\n\nResearch Interests\n\nProbabilistic Machine Learning\nForecasting & Time Series Analysis\nBayesian Methods\nStatistical Learning\nAI for Environmental Applications\n\n\n\nSoumya Ghatak\nPhD Researcher\nPersonal Website | Github\nECE, Indian Institute of Science (IISc), Bangalore, India 🇮🇳\nResearch Interests\n\nSequential decision making\nReinforcement Learning\nOptimization\nApplied Probability"
+  },
+  {
+    "objectID": "people.html#join-the-community",
+    "href": "people.html#join-the-community",
+    "title": "People",
+    "section": "Join the Community",
+    "text": "Join the Community\nPARC is an evolving research community. As our activities grow, we hope to welcome researchers, students, and volunteers who share an interest in research, collaboration, and open science.\nIf you are interested in contributing to PARC, please visit the Join page."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join PARC",
+    "section": "",
+    "text": "PARC brings together motivated students and early-career researchers interested in artificial intelligence, machine learning, forecasting, and data science.\nWe aim to build a small and collaborative community where members can explore research ideas, discuss scientific work, and contribute to meaningful projects."
+  },
+  {
+    "objectID": "join.html#become-part-of-a-research-community",
+    "href": "join.html#become-part-of-a-research-community",
+    "title": "Join PARC",
+    "section": "",
+    "text": "PARC brings together motivated students and early-career researchers interested in artificial intelligence, machine learning, forecasting, and data science.\nWe aim to build a small and collaborative community where members can explore research ideas, discuss scientific work, and contribute to meaningful projects."
+  },
+  {
+    "objectID": "join.html#who-can-join",
+    "href": "join.html#who-can-join",
+    "title": "Join PARC",
+    "section": "Who can join?",
+    "text": "Who can join?\nPARC welcomes students who are:\n\ncurious about research and scientific discovery,\ninterested in AI, machine learning, statistics, forecasting, or data science,\nwilling to actively participate in discussions and activities,\nmotivated to learn and contribute.\n\nPrevious research experience is not required. Curiosity and commitment are the most important requirements."
+  },
+  {
+    "objectID": "join.html#how-to-join",
+    "href": "join.html#how-to-join",
+    "title": "Join PARC",
+    "section": "How to join",
+    "text": "How to join\nTo maintain a focused and collaborative environment, new members are invited after a short conversation with the PARC team.\nThe conversation helps us understand your interests, background, and how you would like to participate in the community."
+  },
+  {
+    "objectID": "join.html#what-we-expect-from-members",
+    "href": "join.html#what-we-expect-from-members",
+    "title": "Join PARC",
+    "section": "What we expect from members",
+    "text": "What we expect from members\nPARC is built around active participation. Members are encouraged to:\n\nengage in reading groups and discussions,\nshare ideas and perspectives,\ncontribute to collaborative projects,\npresent topics or research they find interesting."
+  },
+  {
+    "objectID": "join.html#interested-in-joining",
+    "href": "join.html#interested-in-joining",
+    "title": "Join PARC",
+    "section": "Interested in joining?",
+    "text": "Interested in joining?\nIf you would like to be part of PARC, please complete our interest form.\nJoin PARC\nInterest form coming soon"
+  },
+  {
+    "objectID": "index.html#research-areas",
+    "href": "index.html#research-areas",
+    "title": "PARC",
+    "section": "Research Areas",
+    "text": "Research Areas\n\nArtificial Intelligence\nMachine Learning\nProbabilistic Machine Learning\nReinforcement Learning & Sequential Decision Making\nForecasting & Time Series\nOptimization & Applied Probability\nData Science"
   }
 ]

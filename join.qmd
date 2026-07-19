@@ -1,5 +1,51 @@
 ---
-title: "join"
-format: html
+title: "Join PARC"
 ---
 
+## Become part of a research community
+
+PARC brings together motivated students and early-career researchers interested in artificial intelligence, machine learning, forecasting, and data science.
+
+We aim to build a small and collaborative community where members can explore research ideas, discuss scientific work, and contribute to meaningful projects.
+
+---
+
+## Who can join?
+
+PARC welcomes students who are:
+
+- curious about research and scientific discovery,
+- interested in AI, machine learning, statistics, forecasting, or data science,
+- willing to actively participate in discussions and activities,
+- motivated to learn and contribute.
+
+Previous research experience is not required. **Curiosity** and **commitment** are the most important requirements.
+
+---
+
+## How to join
+
+To maintain a focused and collaborative environment, new members are invited after a short conversation with the PARC team.
+
+The conversation helps us understand your interests, background, and how you would like to participate in the community.
+
+---
+
+## What we expect from members
+
+PARC is built around active participation. Members are encouraged to:
+
+- engage in reading groups and discussions,
+- share ideas and perspectives,
+- contribute to collaborative projects,
+- present topics or research they find interesting.
+
+---
+
+## Interested in joining?
+
+If you would like to be part of PARC, please complete our interest form.
+
+[Join PARC](#) 
+
+*Interest form coming soon*

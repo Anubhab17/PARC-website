@@ -1,9 +1,65 @@
 ---
-title: "About"
+title: "About PARC"
 ---
 
-About this site
+The rapid growth of artificial intelligence and data science has created exciting opportunities for students worldwide. However, moving from learning concepts and implementing projects to conducting meaningful research can often be challenging.
 
-```{r}
-1 + 1
-```
+Research requires more than technical knowledge. It involves developing the ability to:
+
+- ask meaningful questions,
+- understand and critically evaluate existing work,
+- design reliable experiments,
+- communicate scientific ideas,
+- collaborate with others.
+
+PARC was created to provide a space where motivated students can gradually develop these skills through exposure to research, discussion, and collaboration.
+
+---
+
+## Our Vision
+
+We envision a community where students from diverse backgrounds can access research experiences, learn from one another, and develop the confidence to pursue scientific careers.
+
+We believe that curiosity and dedication are fundamental drivers of research. Access to guidance, discussions, and a research environment can help students take their first steps towards independent exploration.
+
+---
+
+## Our Mission
+
+PARC focuses on three key objectives:
+
+### Research Exposure
+
+Introduce students to current developments in artificial intelligence, machine learning, reinforcement learning, optimization, probabilistic modelling, forecasting, statistics, and data science through reading groups, workshops, and collaborative activities.
+
+### Research Skills
+
+Help students develop the practical skills needed for research:
+
+- reading scientific literature,
+- formulating research questions,
+- designing experiments,
+- reproducible computational practices,
+- scientific communication.
+
+### Research Community
+
+Create connections between students and researchers, encouraging open discussions, knowledge sharing, and collaboration.
+
+---
+
+## How We Approach Research
+
+PARC believes that research is developed through curiosity, careful scientific thinking, and collaboration.
+
+We encourage students to go beyond simply applying existing methods and develop the ability to ask questions, evaluate ideas critically, and explore new directions.
+
+We promote an open research culture where knowledge, tools, and experiences are shared to help everyone learn and grow.
+
+---
+
+## Looking Ahead
+
+PARC begins as a small, research-oriented community built around discussion and collaboration.
+
+Over time, we hope to bring together students and researchers from different institutions and create more opportunities for learning, exploration, and open scientific contributions.

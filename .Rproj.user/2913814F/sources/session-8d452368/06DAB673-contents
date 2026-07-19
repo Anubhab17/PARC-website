@@ -1,0 +1,136 @@
+---
+title: "Research collaboration Plan"
+subtitle: "SUPSI - IDSIA  - UNIPD"
+format: 
+  pdf:
+    include-in-header:
+      - text: |
+          \usepackage{booktabs}
+          \usepackage{longtable}
+          \usepackage{array}
+editor: visual
+---
+
+# Research Information
+
+- **Title** : Optimal Point forecast for NLR / Applications of NLR across scientific domains
+
+- **Duration** : 3 months
+
+  - 2 months (remote)
+  - 1 month (on-site, UniPD)
+
+- **Participating Institutions** :
+
+  - DACD, SUPSI
+  - IDSIA, USI-SUPSI
+  - Department of Statistical Sciences, UniPD
+
+- **Main Contacts** :
+
+  - Anubhab Biswas (DACD, SUPSI)
+  - Lorenzo Nespoli (DACD, SUPSI)
+  - Giorgio Corani (IDSIA, USI-SUPSI)
+  - Daniele Girolimetto (Department of Statistical Sciences, UniPD)
+
+
+# Aim and Relevance
+
+### Research Topic 
+
+In this collaboration we will try to explore the following topic.
+
+**Optimal point forecast for nonlinear reconciliation**: Recently projection-based and conditioning-based reconciliation methods for time series with nonlinear constraints have been developed. Although some guarantees for improvement over the base forecast has been shown in these studies, an optimal way of obtaining a reconciled point forecast on the nonlinear manifold is yet to be explored. Additionally, multiple options for obtaining a reconciled point forecast on the manifold can be crafted - (i) *projecting the incoherent point forecast*, (ii) *computing the Frechet mean of the reconciled distribution*, or (iii) *computing the Euclidean mean of the reconciled distribution*. We will try to explore which of these methods is more accurate, and if there is an optimal method to obtain the reconciled point forecast which guarantees to achieve the minimum score with respect to an suitable scoring rule metric.
+
+
+### Research questions
+
+
+
+### Relevance of the topic
+
+
+
+### Objectives
+
+
+
+
+
+
+
+
+
+
+## Gantt Chart
+
+\begin{longtable}{|>{\centering\arraybackslash}p{4.5cm}|*8{>{\centering\arraybackslash}p{1.2cm}|}>{\centering\arraybackslash}p{1.2cm}|>{\centering\arraybackslash}p{1.2cm}|>{\centering\arraybackslash}p{1.2cm}|>{\centering\arraybackslash}p{1.2cm}|>{\centering\arraybackslash}p{1.2cm}|>{\centering\arraybackslash}p{1.2cm}|>{\centering\arraybackslash}p{1.2cm}|>{\centering\arraybackslash}p{1.2cm}|>{\centering\arraybackslash}p{1.2cm}|>{\centering\arraybackslash}p{1.2cm}|>{\centering\arraybackslash}p{1.2cm}|>{\centering\arraybackslash}p{1.2cm}|>{\centering\arraybackslash}p{1.2cm}|>{\centering\arraybackslash}p{1.2cm}|>{\centering\arraybackslash}p{1.2cm}|>{\centering\arraybackslash}p{1.2cm}|}
+\caption{Project Implementation Schedule - tentative} \label{tbl-gantt} 
+\hline
+\textbf{Tasks} & \textbf{Jul} & \textbf{Aug} & \textbf{Sep} & \textbf{Oct wk 1} & \textbf{Oct wk 2} & \textbf{Oct wk 3} & \textbf{Oct wk 4} & \textbf{Nov} \\ \hline
+\endfirsthead
+\hline
+\textbf{Tasks} & \textbf{Jul} & \textbf{Aug} & \textbf{Sep} & \textbf{Oct wk 1} & \textbf{Oct wk 2} & \textbf{Oct wk 3} & \textbf{Oct wk 4} & \textbf{Nov} \\ \hline
+\endhead
+ & - & * & * & \textbf{*} & \textbf{*} & \textbf{*} & \textbf{*} & - \\ \hline
+
+Finalization of Scope \& Setup & $\checkmark$ & & & & & & & \\ \hline
+Math Formulation \& Scoring Rule Analysis & $\checkmark$ & $\checkmark$ & & & & & & \\ \hline
+Simulation Studies (Synthetic Data Bounds) & $\checkmark$ & $\checkmark$ & $\checkmark$ & & & & & \\ \hline
+Empirical Evaluation (Real-world Data) & & $\checkmark$ & $\checkmark$ & $\checkmark$ & & & & \\ \hline
+Theoretical Proofs \& Refinements (UniPD) & & & & $\checkmark$ & $\checkmark$ & $\checkmark$ & & \\ \hline
+Joint Manuscript Drafting & & & & & $\checkmark$ & $\checkmark$ & $\checkmark$ & \\ \hline
+Final Review \& Submission Pipeline & & & & & & & & $\checkmark$ \\ \hline\hline
+\multicolumn{9}{|l|}{\small\textit{Legend: - : pre/post collaboration work; * : remote; \textbf{*} : on-site}} \\ \hline
+
+\end{longtable}
+
+## Detailed Institutional Responsibilities
+
+To ensure efficient parallel execution of both research tracks over the 3-month cycle, responsibilities are allocated as follows:
+
+- **DACD, SUPSI (Lead & Execution):**
+  - Act as primary project coordinators.
+  - Lead computational implementation, simulation design, and algorithmic benchmarking for both Topic 1 and Topic 2.
+  - Oversee data collection and pipeline preprocessing for applied engineering case studies (e.g., water/energy networks).
+- **IDSIA, USI-SUPSI (Scientific Supervision):**
+  - Provide methodological guidance on probabilistic forecasting architectures and scoring rules.
+  - Oversee the statistical rigor of the benchmarking framework.
+  - Co-steer the structure and narrative flow of the methodological manuscript.
+- **Department of Statistical Sciences, UniPD (Theoretical Foundations & Hosting):**
+  - Drive the mathematical formulations regarding projection geometries and Frechet means on constrained manifolds.
+  - Host the 1-month intensive on-site research sprint to finalize theorem proofs and unify the manuscripts.
+  - Provide structural domain expertise via their foundational background in hierarchical time series reconciliation.
+
+## Scheduled interactions
+
+- Via email during the *pre-collaboration* stage.
+
+- Via email during the *remote* stage - possibly bi-weekly. One or two *Teams* call if needed.
+
+- Active interactions (once or twice a week) during the *on-site* stage at UniPD.
+
+## Expected Outcomes & Dissemination
+
+The collaboration aims to yield two high-impact peer-reviewed manuscripts and an open-source software contribution:
+
+1.  **Methodological Manuscript (Topic 1):** Target journal is the *International Journal of Forecasting (IJF)* or *Journal of Machine Learning Research (JMLR)*.
+
+2.  **Open-Source Software:** Implementation of the newly developed point estimation techniques integrated directly into existing R/Python forecast reconciliation ecosystems (e.g., expanding the `FoReco` and/or `bayesreconpy`).
+
+## Funding & Resource Allocation
+
+- **Travel & Accommodation:** The 1-month on-site research stay at UniPD for the SUPSI researchers will be covered via \[?\].
+- **Personnel Costs:** Each institution will support its respective participating researchers under existing internal faculty or researcher allocations, representing an in-kind contribution to this collaborative roadmap.
+
+## Risk Assessment & Mitigation
+
+Given the compressed 3-month timeline of this collaboration, we identify the following primary risks and corresponding mitigation strategies:
+
+- **Risk 1: Mathematical intractability of optimal point forecasts (Topic 1).**
+  - *Mitigation:* If finding a universally optimal closed-form solution with respect to general scoring rules proves impossible within the first 6 weeks, the focus will pivot to a comprehensive empirical comparison of the three candidate heuristics (projected base, Fréchet mean, Euclidean mean) to establish empirical guidelines for publication.
+
+## Software, Data Governance, & Open Science
+
+- **Code Repository:** All computational scripts developed during this collaboration will be maintained in a private GitHub repository shared among the main contacts, to be made fully open-source upon manuscript publication.
+- **Data Privacy & GDPR:** This project relies entirely on open-source, aggregated macro-level benchmarks or anonymized industrial simulation data. No personal data or proprietary data subject to GDPR or Swiss Federal Act on Data Protection (FADP) regulations will be processed, removing the need for institutional ethics committee clearance.
