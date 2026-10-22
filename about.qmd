@@ -2,6 +2,12 @@
 title: "About PARC"
 ---
 
+<div style="text-align: center; margin: 1.5rem 0 2rem 0;">
+  <img src="images/PARC-logo.jpeg"
+       alt="PARC — Probabilistic AI Research Community"
+       width="280">
+</div>
+
 The rapid growth of artificial intelligence and data science has created exciting opportunities for students worldwide. However, moving from learning concepts and implementing projects to conducting meaningful research can often be challenging.
 
 Research requires more than technical knowledge. It involves developing the ability to:
@@ -14,7 +20,7 @@ Research requires more than technical knowledge. It involves developing the abil
 
 PARC was created to provide a space where motivated students can gradually develop these skills through exposure to research, discussion, and collaboration.
 
----
+------------------------------------------------------------------------
 
 ## Our Vision
 
@@ -22,7 +28,7 @@ We envision a community where students from diverse backgrounds can access resea
 
 We believe that curiosity and dedication are fundamental drivers of research. Access to guidance, discussions, and a research environment can help students take their first steps towards independent exploration.
 
----
+------------------------------------------------------------------------
 
 ## Our Mission
 
@@ -46,7 +52,7 @@ Help students develop the practical skills needed for research:
 
 Create connections between students and researchers, encouraging open discussions, knowledge sharing, and collaboration.
 
----
+------------------------------------------------------------------------
 
 ## How We Approach Research
 
@@ -56,7 +62,7 @@ We encourage students to go beyond simply applying existing methods and develop 
 
 We promote an open research culture where knowledge, tools, and experiences are shared to help everyone learn and grow.
 
----
+------------------------------------------------------------------------
 
 ## Looking Ahead
 

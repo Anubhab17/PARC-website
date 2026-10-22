@@ -2,8 +2,9 @@ project:
   type: website
 website:
   title: "Probabilistic AI Research Community"
-
   navbar:
+    logo: images/PARC-logo.jpeg
+    title: "PARC"
     left:
       - href: index.qmd
         text: Home
