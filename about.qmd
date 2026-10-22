@@ -8,6 +8,7 @@ title: "About PARC"
        width="280">
 </div>
 
+
 The rapid growth of artificial intelligence and data science has created exciting opportunities for students worldwide. However, moving from learning concepts and implementing projects to conducting meaningful research can often be challenging.
 
 Research requires more than technical knowledge. It involves developing the ability to:
