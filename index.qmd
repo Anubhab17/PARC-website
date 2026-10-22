@@ -3,6 +3,8 @@ title: "PARC"
 subtitle: "Probabilistic AI Research Community"
 ---
 
+Welcome to **PARC**!
+
 <div style="text-align: center; margin: 1.5rem 0 2rem 0;">
   <img src="images/PARC-logo.jpeg"
        alt="PARC — Probabilistic AI Research Community"
@@ -10,7 +12,6 @@ subtitle: "Probabilistic AI Research Community"
 </div>
 
 
-Welcome to **PARC**!
 
 PARC is a student-driven research community that connects motivated learners with researchers to explore ideas in artificial intelligence, machine learning, statistics, optimization, forecasting, and data science.
 
