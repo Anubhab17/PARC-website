@@ -3,18 +3,22 @@ title: "PARC"
 subtitle: "Probabilistic AI Research Community"
 ---
 
+<div style="text-align: center; margin: 1.5rem 0 2rem 0;">
+  <img src="images/PARC-logo.jpeg"
+       alt="PARC — Probabilistic AI Research Community"
+       width="280">
+</div>
+
+
 Welcome to **PARC**!
 
 PARC is a student-driven research community that connects motivated learners with researchers to explore ideas in artificial intelligence, machine learning, statistics, optimization, forecasting, and data science.
 
-> <span style="color: darkgreen;">
-*Research grows through conversation. The name* ***PARC*** *is inspired by the idea of a **PARK**—a place where people meet, exchange ideas, and learn from one another. Likewise, PARC aims to cultivate a welcoming community for scientific exploration.*
-</span>
+> [ *Research grows through conversation. The name* ***PARC*** *is inspired by the idea of a **PARK**—a place where people meet, exchange ideas, and learn from one another. Likewise, PARC aims to cultivate a welcoming community for scientific exploration.* ]{style="color: darkgreen;"}
 
-[Join the Community](join.qmd){.btn .btn-primary}
-[Our Activities](activities.qmd){.btn .btn-secondary}
+[Join the Community](join.qmd){.btn .btn-primary} [Our Activities](activities.qmd){.btn .btn-secondary}
 
----
+------------------------------------------------------------------------
 
 ## Why PARC?
 
@@ -22,39 +26,31 @@ Moving from coursework to research is often challenging. Research requires more 
 
 PARC provides an open environment where students can develop these skills through discussion, collaboration, and hands-on research activities.
 
----
+------------------------------------------------------------------------
 
 ## What We Do
 
-::: {.columns}
-
+:::::: columns
 ::: {.column width="33%"}
-
 ### 📚 Reading Groups
 
 Explore recent research papers in artificial intelligence, machine learning, probabilistic modelling, reinforcement learning, forecasting, and data science through interactive discussions.
-
 :::
 
 ::: {.column width="33%"}
-
 ### 🧠 Research Skills
 
 Learn practical research skills including literature review, experiment design, reproducible computing, and scientific communication.
-
 :::
 
 ::: {.column width="33%"}
-
 ### 🌱 Open Projects
 
 Collaborate on research-oriented projects, reproduce published work, and contribute to open-source scientific software.
-
 :::
+::::::
 
-:::
-
----
+------------------------------------------------------------------------
 
 ## Research Areas
 
@@ -66,7 +62,7 @@ Collaborate on research-oriented projects, reproduce published work, and contrib
 - Optimization & Applied Probability
 - Data Science
 
----
+------------------------------------------------------------------------
 
 ## Our Philosophy
 
@@ -74,7 +70,7 @@ Collaborate on research-oriented projects, reproduce published work, and contrib
 
 We believe research is driven by curiosity, strengthened through rigorous scientific practice, and accelerated by an open and collaborative community.
 
----
+------------------------------------------------------------------------
 
 ## Founded by
 
@@ -86,7 +82,7 @@ As PARC grows, we aim to bring together researchers and learners who share a pas
 
 → Learn more about the team on the **People** page.
 
----
+------------------------------------------------------------------------
 
 ## Become part of the community
 
@@ -94,7 +90,7 @@ Research grows through curiosity, collaboration, and shared learning.
 
 Whether you are a student beginning your research journey or a researcher interested in contributing, PARC welcomes individuals who are passionate about exploring ideas and building meaningful scientific connections.
 
-**Interested in joining PARC?**  
+**Interested in joining PARC?**\
 Visit the **Join** page to learn more.
 
----
+------------------------------------------------------------------------
